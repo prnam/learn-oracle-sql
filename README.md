@@ -7,3 +7,4 @@
 - [Select by ID](https://www.hackerrank.com/challenges/select-by-id/problem)
 - [Japanese Cities' Attributes](https://www.hackerrank.com/challenges/japanese-cities-attributes/problem)
 - [Japanese Cities' Names](https://www.hackerrank.com/challenges/japanese-cities-name/problem)
+- [Weather Observation Station 1](https://www.hackerrank.com/challenges/weather-observation-station-1/problem)
