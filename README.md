@@ -6,3 +6,4 @@
 - [Select All](https://www.hackerrank.com/challenges/select-all-sql/problem)
 - [Select by ID](https://www.hackerrank.com/challenges/select-by-id/problem)
 - [Japanese Cities' Attributes](https://www.hackerrank.com/challenges/japanese-cities-attributes/problem)
+- [Japanese Cities' Names](https://www.hackerrank.com/challenges/japanese-cities-name/problem)
