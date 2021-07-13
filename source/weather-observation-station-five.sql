@@ -1,0 +1,2 @@
+select city,length(city) from (select city from station order by length(city),city asc) where rownum<=1;
+select city,length(city) from (select city,length(city) from station order by length(city) desc) where rownum<=1 order by city asc;
