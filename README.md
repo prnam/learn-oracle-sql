@@ -20,3 +20,4 @@
 - [Weather Observation Station 12](https://www.hackerrank.com/challenges/weather-observation-station-12/problem)
 - [Higher Than 75 Marks](https://www.hackerrank.com/challenges/more-than-75-marks/problem)
 - [Employee Names](https://www.hackerrank.com/challenges/name-of-employees/problem)
+- [Employee Salaries](https://www.hackerrank.com/challenges/salary-of-employees/problem)
