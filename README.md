@@ -13,3 +13,4 @@
 - [Weather Observation Station 5](https://www.hackerrank.com/challenges/weather-observation-station-5/problem)
 - [Weather Observation Station 6](https://www.hackerrank.com/challenges/weather-observation-station-6/problem)
 - [Weather Observation Station 7](https://www.hackerrank.com/challenges/weather-observation-station-7/problem)
+- [Weather Observation Station 8](https://www.hackerrank.com/challenges/weather-observation-station-8/problem)
