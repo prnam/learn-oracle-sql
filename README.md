@@ -24,3 +24,4 @@
 
 ### Advanced Select
 - [Type of Triangle](https://www.hackerrank.com/challenges/what-type-of-triangle/problem)
+- [The PADS](https://www.hackerrank.com/challenges/the-pads/problem)
